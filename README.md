@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [Project Name] API is a RESTful service designed for managing daily meal plans and diet tracking. It allows users to register, update, delete meals, and retrieve meal information. This API is built using Python and Flask framework, with SQLAlchemy for database management.
+The Daily Diet Plan API is a RESTful service designed for managing daily meal plans and diet tracking. It allows users to register, update, delete meals, and retrieve meal information. This API is built using Python and Flask framework, with SQLAlchemy for database management.
 
 ## Features
 
@@ -24,8 +24,8 @@ The [Project Name] API is a RESTful service designed for managing daily meal pla
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-   cd [project-directory]
+   git clone [[repository-url](https://github.com/gabrieladsalv/daily-diet-plan.git)]
+   cd [project-directory](https://github.com/gabrieladsalv/daily-diet-plan/tree/main)
     ```
 
 2. **Install dependencies:**
