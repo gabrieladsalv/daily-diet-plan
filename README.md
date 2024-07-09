@@ -1,4 +1,4 @@
-# [Project Name] API
+# Daily Diet Plan API
 
 ## Overview
 
