@@ -158,8 +158,8 @@ The Daily Diet Plan API is a RESTful service designed for managing daily meal pl
         ```
 ## Author
 
-- Gabriela Alvarenga
+- @shturno
 
 ## Contact
 
-For any questions, please contact me at [linkedin](https://www.linkedin.com/in/gabrieladsalvarenga/) or at [email](gabrielasalvarenga2@gmail.com).
+For any questions, please contact me at [linkedin](https://www.linkedin.com/in/gabrieldsalvarenga/) or at [email](mailto:gabriel.dsalvarenga@gmail.com).
